@@ -9,9 +9,7 @@ __pycache__/
 venv/
 .env/
 
-# Dataset
-dataset/
-*.csv
+
 
 # Model files
 *.pkl
